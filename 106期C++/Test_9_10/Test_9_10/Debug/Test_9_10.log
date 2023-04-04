@@ -1,0 +1,17 @@
+﻿  test.c
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(123,21): warning C4047: “函数”:“QDataType”与“BTNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(123,17): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(133,29): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(133,23): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(135,30): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(135,23): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(126,1): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(145,21): warning C4047: “函数”:“QDataType”与“BTNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(145,17): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(152,28): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(152,22): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(153,29): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(153,22): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(148,1): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+D:\代码前置仓库\Test_9_10\Test_9_10\test.c(160,1): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+  Test_9_10.vcxproj -> D:\代码前置仓库\Test_9_10\Debug\Test_9_10.exe

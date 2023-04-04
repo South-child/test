@@ -1,0 +1,4 @@
+﻿  Test.c
+D:\代码前置仓库\106期C++\test_8_29\test_8_29\Test.c(93,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\代码前置仓库\106期C++\test_8_29\test_8_29\Test.c(94,23): warning C4018: “<”: 有符号/无符号不匹配
+  test_8_29.vcxproj -> D:\代码前置仓库\106期C++\test_8_29\Debug\test_8_29.exe
